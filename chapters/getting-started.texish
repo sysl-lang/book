@@ -2,4 +2,4 @@
 
 \section{Hello, world}
 
-\code{print("Hello, sysl!")}
+\code[sysl]{print("Hello, sysl!")}
