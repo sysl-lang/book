@@ -1,12 +1,17 @@
 // The SysL Programming Language — the whole book. Render with `texish main.texish`.
 \use{book}
 
+// Printed with a black-and-white interior: code is set in greys, bold and italic, not colour.
+\set codetheme {print}
+
 \title{The SysL Programming Language}
 \author{Edward A. Maxedon}
 \date{}
 
 \frontmatter
+\halftitle
 \maketitle
+\copyrightpage{Copyright © 2026 Edward A. Maxedon. All rights reserved.}
 \contents
 
 \include{chapters/preface.texish}
