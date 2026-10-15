@@ -1,0 +1,18 @@
+// The SysL Programming Language — the whole book. Render with `texish main.texish`.
+\use{book}
+
+\title{The SysL Programming Language}
+\author{Edward A. Maxedon}
+\date{}
+
+\frontmatter
+\maketitle
+\contents
+
+\include{chapters/preface.texish}
+
+\mainmatter
+
+\include{chapters/getting-started.texish}
+
+\backmatter

@@ -1,0 +1,5 @@
+\chapter{Getting Started}
+
+\section{Hello, world}
+
+\code{print("Hello, sysl!")}
