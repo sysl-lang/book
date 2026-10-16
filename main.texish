@@ -1,6 +1,10 @@
 // The SysL Programming Language — the whole book. Render with `texish main.texish`.
 \use{book}
 
+// A 7.5 × 9.25 in trim, the common size for programming books. The 0.875 in inside margin is KDP's
+// minimum for the longest books it prints (701–828 pages), so it holds however long this one grows.
+\geometry paper:7.5x9.25 inner:0.875in outer:0.625in top:0.75in bottom:0.75in
+
 // Printed with a black-and-white interior: code is set in greys, bold and italic, not colour.
 \set codetheme {print}
 
